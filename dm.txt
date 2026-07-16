@@ -2,11 +2,19 @@
 { "storeHouse": [ 
     {
       "sourceName": "🍈自用仓库",
-      "sourceUrl": "http://liucn.cc/box/dc.txt"
+      "sourceUrl": "http://raw.liucn.cc/box/dc.txt"
     },
     {
-      "sourceName": "🍎欧歌仓库",
-      "sourceUrl": "https://xn--9ff9-rp5imh.v.nxog.top/nxog/oua.php?b=9f欧歌f9"
+      "sourceName": "🍎双龙主仓",
+      "sourceUrl": "https://xn--aooa-mb1gy821b.v.nxog.top/nxog/oua.php?b=ao双龙oa"
+    },
+    {
+      "sourceName": "🌹双龙备1仓",
+      "sourceUrl": "https://by1.430520.xyz/?b=ao双龙oa"
+    },
+    {
+      "sourceName": "🌷双龙2仓",
+      "sourceUrl": "https://by2.nxog.fun/?b=ao双龙oa"
     },
     {
       "sourceName": "🥭木鱼仓库",
